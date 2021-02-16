@@ -10,4 +10,4 @@
 
 ***vwxyz***
 
-[click me](google.com)
+[click me](https://www.google.com/)
